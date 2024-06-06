@@ -1,5 +1,7 @@
 # AI-Assi
 
+AI-Assi provides a low-code/no-code framework where you can create your own virtual assistants with specific roles. You can interact with these assistants to practice various scenarios, such as pitching your product to different stakeholders. Each assistant will respond according to their assigned role, helping you refine your presentation and improve your communication skills.
+
 AI-Assi is an AI-powered assistant that utilizes OpenAI's GPT-4. This project is divided into two main components: the backend and the frontend.
 
 ## Prerequisites
